@@ -1,29 +1,29 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Country Meals Vlog
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description: we show you cooking and life in the village 🛖🌱
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: We are a rural family and we live in this beautiful village. Our parents have been living in this village for nearly 80 years and we have a pleasant village life. This village is located in the mountainous and forest region of Iran.
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
-
+  - platform: YouTube
+    url: https://youtube.com/@CountryMealsVlog-
+  - platform: Instagram
+    url: https://www.instagram.com/country_meals_vlog/?igshid=YmMyMTA2M2Y%3D
+  - platform: Tiktok
+    url: https://www.tiktok.com/@countrymealsvlog
+  - platform: Facebook
+    url: https://www.facebook.com/profile.php?id=100094554870032
+  
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+google_analytics: "" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
